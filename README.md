@@ -1,2 +1,1 @@
-# alice
-Arch-based Live ISO Creating Environment
+# Alice Live ISO Creating Environment
